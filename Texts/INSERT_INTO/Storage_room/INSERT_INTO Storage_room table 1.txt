@@ -1,0 +1,1 @@
+INSERT INTO `storage_room`(`Storage_ID`, `Storage_room_phone`, `Email`, `Fax`, `Work_time`, `Storage_room_owner_name`, `Address`) VALUES ('1R513704A','+44 20-7946-0330','hypershoestorage@outlook.com','+44 (0)20 1655-3712','1pm-8am','Jae Zack','80 Stone St - Craw');

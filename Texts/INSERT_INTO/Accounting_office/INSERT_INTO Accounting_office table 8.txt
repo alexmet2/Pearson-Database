@@ -1,0 +1,1 @@
+INSERT INTO `accounting_office`(`Office_ID`, `Shop_expenses`, `Shop_revenues`, `Salary`, `Month`) VALUES ('7628319G7','1252.12','4468.53','635.52','2022-08');

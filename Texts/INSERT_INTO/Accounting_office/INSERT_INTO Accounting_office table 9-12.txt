@@ -1,0 +1,4 @@
+INSERT INTO `accounting_office`(`Office_ID`, `Shop_expenses`, `Shop_revenues`, `Salary`, `Month`) VALUES ('382B41A64','1467.23','4762.51','721.31','2022-09');
+INSERT INTO `accounting_office`(`Office_ID`, `Shop_expenses`, `Shop_revenues`, `Salary`, `Month`) VALUES ('975D41Q32','1322.15','4321.68','712.42','2022-010');
+INSERT INTO `accounting_office`(`Office_ID`, `Shop_expenses`, `Shop_revenues`, `Salary`, `Month`) VALUES ('8652H6Q32','1335.31','4225.69','695.35','2022-011');
+INSERT INTO `accounting_office`(`Office_ID`, `Shop_expenses`, `Shop_revenues`, `Salary`, `Month`) VALUES ('9163AB432','1313.22','4241.79','728.24','2022-012');

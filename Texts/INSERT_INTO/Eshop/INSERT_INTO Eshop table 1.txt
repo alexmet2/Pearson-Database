@@ -1,0 +1,1 @@
+INSERT INTO `e_shop`(`Product_codes`, `Site_URL`, `Product_quantity`, `Country_of_origin`, `Product_sizes`, `Site_creator_name`, `Site_creator_phone_1`, `Site_creator_phone_2`, `Payment_methods`) VALUES ('35B778','https://www.hypershoe.com','2032','UK','37-47','Tiffany Natalee','+44 7700-900208','+44 7700-900717','Credit card - Paypal - Cash on delivery');

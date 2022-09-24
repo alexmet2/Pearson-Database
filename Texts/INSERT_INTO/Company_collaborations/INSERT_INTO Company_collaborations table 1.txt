@@ -1,0 +1,1 @@
+INSERT INTO `company_collaborations`(`ID`, `Name`, `Country_of_origin`, `Contracts`, `Phone`, `Email`, `Address`) VALUES ('28TE36836','Deliverist','Germany','5','+49 04204-98-67-09','deliverist@yahoo.com','Leopoldstraße 31- Ahrensfelde');

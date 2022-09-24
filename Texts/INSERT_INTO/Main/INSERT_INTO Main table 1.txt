@@ -1,0 +1,1 @@
+INSERT INTO `main`(`Company_ID`, `Shoe_store_address`, `Owner_phone_1`, `Owner_phone_2`, `Shoe_store_landline_telephone`, `FAX`, `Email`, `Shoe_store_name`, `Owner_name`, `Work_time`) VALUES ('1234EA789','2044 Chestnut Street, Florida','+44 7700-900129','+44 7700-900806','+44 117-496-0572','+44 (0)20 7555-4321','wojic69970@dakcans.com','Hyper-Shoe','Woodrow Kendall','9pm-5am');
